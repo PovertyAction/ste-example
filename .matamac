@@ -1,0 +1,4 @@
+[type]
+	BaseWriter = class randomdo_base_writer
+	Control = class randomdo_control
+	RandomWriter = class randomdo_complete_writer
